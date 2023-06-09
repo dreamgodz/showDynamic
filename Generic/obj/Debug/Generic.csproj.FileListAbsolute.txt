@@ -1,0 +1,8 @@
+C:\Users\Юлия\source\repos\slowdynamic\Generic\bin\Debug\Generic.exe.config
+C:\Users\Юлия\source\repos\slowdynamic\Generic\bin\Debug\Generic.exe
+C:\Users\Юлия\source\repos\slowdynamic\Generic\bin\Debug\Generic.pdb
+C:\Users\Юлия\source\repos\slowdynamic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\Юлия\source\repos\slowdynamic\Generic\obj\Debug\Generic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юлия\source\repos\slowdynamic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\slowdynamic\Generic\obj\Debug\Generic.exe
+C:\Users\Юлия\source\repos\slowdynamic\Generic\obj\Debug\Generic.pdb

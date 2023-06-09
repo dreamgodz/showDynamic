@@ -1,0 +1,8 @@
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\bin\Debug\slowdynamic.exe.config
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\bin\Debug\slowdynamic.exe
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\bin\Debug\slowdynamic.pdb
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\obj\Debug\slowdynamic.csproj.AssemblyReference.cache
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\obj\Debug\slowdynamic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\obj\Debug\slowdynamic.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\obj\Debug\slowdynamic.exe
+C:\Users\Юлия\source\repos\slowdynamic\slowdynamic\obj\Debug\slowdynamic.pdb
